@@ -1,3 +1,5 @@
 # hello_world
-ideas, resources, timelines and links
+ideas, resources, time
+raspberry pi smart mirror
 m going to start working on smart mirror
+
